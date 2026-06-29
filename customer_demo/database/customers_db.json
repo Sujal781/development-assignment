@@ -1,0 +1,22 @@
+[
+  {
+    "gcid": "GC1001",
+    "email": "alice@gmail.com"
+  },
+  {
+    "gcid": "GC1002",
+    "email": "bob@gmail.com"
+  },
+  {
+    "gcid": "GC1003",
+    "email": "john@gmail.com"
+  },
+  {
+    "gcid": "GC1004",
+    "email": "sujal@gmail.com"
+  },
+  {
+    "gcid": "GC1005",
+    "email": "raj@gmail.com"
+  }
+]
