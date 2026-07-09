@@ -1,12 +1,12 @@
 [
   {
-    "name": "Sujal",
-    "email": "sujal@gmail.com",
-    "gcid": "GC1004"
+    "name": "John",
+    "email": "john@gmail.com",
+    "gcid": "GC1003"
   },
   {
-    "name": "Raj",
-    "email": "raj@gmail.com",
-    "gcid": "GC1005"
+    "name": "Bob",
+    "email": "bob@gmail.com",
+    "gcid": "GC1002"
   }
 ]
